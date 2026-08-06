@@ -7,3 +7,5 @@ All card artwork, images, and visual assets in this repository are the exclusive
 These assets were commissioned or curated specifically for Akane Bot. They are NOT free to use.
 
 © Akane Bot. All rights reserved.
+
+# Privacy Policy
